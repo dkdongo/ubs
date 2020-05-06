@@ -207,6 +207,11 @@ float:right;
     margin-left:33%;
     margin-top:20px;
   }
+  .banner-call {
+    margin:0 auto;
+    display:block;
+    margin-top:50px;
+  }
 .banner-showroom {
   height:25px;
 }
@@ -230,7 +235,7 @@ float:right;
 
   }
   .showcase-text1 {
-    
+
     font-size:20px;
 
 
